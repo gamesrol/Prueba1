@@ -1,2 +1,2 @@
 # Prueba1
-[alt text](https://github.com/gamesrol/Prueba1/blob/master/gato.jpg?raw=true)
+![Pacooo](https://github.com/gamesrol/Prueba1/blob/master/gato.jpg?raw=true)
